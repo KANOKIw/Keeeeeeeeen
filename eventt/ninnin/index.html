@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="59th 獅子児祭 Diverge">
+    <meta property="og:description" content="2024年度獅子児祭 9/15,16 開催!">
+    <meta property="og:site_name" content="SHISHIJI FES">
+    <meta property="og:image" content="https://pbs.twimg.com/profile_images/1402955393194594308/a5pHbQKZ_400x400.jpg">
+    <meta property="og:locale" content="ja">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@shishijifes">
+    <meta name="twitter:creator" content="@shishijifes">
+    <meta name="twitter:title" content="59th 獅子児祭 Diverge">
+    <meta name="twitter:description" content="2024年度獅子児祭 9/15,16 開催！">
+    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1402955393194594308/a5pHbQKZ_400x400.jpg">
+    <meta name="theme-color" content="rgb(21, 32, 43)" id="theme-meta">
+    <title>59th 獅子児祭 Diverge</title>
+    <link rel="icon" href="../../images/favicon.ico">
+    <link rel="stylesheet" href="../../index.css">
+    <style>
+        *{
+        margin: 0;
+        padding: 0;
+        font-family: "zen-kaku-gothic-new", sans-serif;
+        }
+        </style>
+    <link rel="preload" href="/the-theme-kotei3/NotosansJP.ttf" as="font" type="font/ttf">
+    <script>
+        (function(d) {
+          var config = {
+            kitId: 'gun5tqp',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+    </script>
+</head>
+<body style="background-color: rgb(21, 32, 43);width: 100vw;max-width: 1000px;overflow-x: hidden;padding-bottom: 2vh;margin-left: auto;margin-right: auto;position: relative;">
+
+
+  <div class="event" id="band-zenhan-detail" style="width: min(90vw,450px);margin-left: auto;margin-right: auto;padding: 5px;padding-bottom: 3vh;">
+    <div style="position: absolute;top: 5px;left: 10px;display: flex;"><p class="text" onclick="ShowEventTop()" style="cursor:pointer;"><u>イベント</u></p><p>&nbsp;&gt;&nbsp;</p><p class="text" onclick="ShowBand()" style="cursor:pointer;"><u>バンド</u></p><p>&nbsp;&gt;&nbsp;</p><p>OCTED</p></div>
+    <p style="margin-top: 8vh;" class="headline2-5">OCTED</p>
+    <p class="text">バンド団体詳細情報</p>
+    <p style="margin-top: 2vh;" class="text">出演順: 後半グループ 7番目</p>
+    <div style="display: flex;margin-top: 1vh;">
+      <p class="text">出演予定時間:&nbsp;</p>
+      <p class="text">15日(日)&emsp;<br>16日(月)&emsp;</p>
+      <p class="text">12:03 ~ 12:22<br>14:45 ~ 15:04</p>
+    </div>
+    <p style="margin-top: 1vh;" class="text">上記のタイムスケジュールは当日の演奏状況等により前後に変動する可能性があるため、目安としてご利用ください。</p>
+    <p style="margin-top: 3vh;" class="text">演奏曲</p>
+    <p id="song-list-zenhan">
+        ・シャルル<br>
+        ・シャルル<br>
+        ・シャルル<br>
+        ・シャルル<br>
+    </p>
+    <p style="margin-top: 3vh;" class="text">団体からの一言</p>
+    <p>こんにちは</p>
+  </div>
+
+</body>
+<script>
+
+
+
+  const band_zenhan_data = [
+  {
+                "name": "AIAN's",
+                "description": "AIAN'sです。Pretender、ないものねだり、恋をやります。よろしく！！",
+                "musics": [
+                    "pretender",
+                    "ないものねだり",
+                    "恋"
+                ],
+                "takes": 14,
+                "starts-1": "9:30",
+                "starts-2": "12:15"
+            },
+            {
+                "name": "HEKI",
+                "description": "シンデレラボーイをやります！本気で演奏するので来てください！",
+                "musics": [
+                    "シンデレラボーイ"
+                ],
+                "takes": 4,
+                "starts-1": "9:45",
+                "starts-2": "12:30"
+            },
+            {
+                "name": "背骨軟骨",
+                "description": "丸の内サディスティックと春泥棒はどちらも僕たちにとって難しい曲なので、なるべくミスの無いよう頑張ります。",
+                "musics": [
+                    "春泥棒",
+                    "丸の内サディスティック"
+                ],
+                "takes": 9,
+                "starts-1": "9:50",
+                "starts-2": "12:35"
+            },
+            {
+                "name": "ラムダ",
+                "description": "飛行艇という盛り上がれる曲を演奏します。",
+                "musics": [
+                    "飛行艇"
+                ],
+                "takes": 5,
+                "starts-1": "10:03",
+                "starts-2": "12:48"
+            },
+            {
+                "name": "険悪",
+                "description": "人生にある沢山の悩み・不安。それらは生きていく上で避けられない不可抗力ですが、今日だけは忘れさせます。楽しんでね。",
+                "musics": [
+                    "不可抗力",
+                    "逆光",
+                    "晴る"
+                ],
+                "takes": 12,
+                "starts-1": "10:10",
+                "starts-2": "12:55"
+            },
+            {
+                "name": "T-RUSHES",
+                "description": "私たちT-RUSHESは今回ピースサインとナンセンス文学を演奏させていただきます。",
+                "musics": [
+                    "ナンセンス文学",
+                    "ピースサイン"
+                ],
+                "takes": 9,
+                "starts-1": "10:25",
+                "starts-2": "13:10"
+            },
+            {
+                "name": "ベジタリアンズ",
+                "description": "ベジタリアンは豪雨",
+                "musics": [
+                    "群青日和",
+                    "kick back"
+                ],
+                "takes": 8,
+                "starts-1": "10:35",
+                "starts-2": "13:20"
+            },
+            {
+                "name": "くいんてっと",
+                "description": "ゆったりなテンポの曲から激し目のテンポの曲まで色々な曲を披露します。ぜひ男子校の影(シルエット)を見て行ってください。",
+                "musics": [
+                    "シルエット",
+                    "さよならエレジー",
+                    "欲望に満ちた青年団"
+                ],
+                "takes": 13,
+                "starts-1": "10:47",
+                "starts-2": "13:32"
+            },
+
+    // {
+    //     "name":"",
+    // },
+];
+
+
+const band_kouhan_data = [
+    {
+        "name":"Blue mates",
+    },
+    {
+        "name":"へっじほっぐ！！",
+    },
+    {
+        "name":"バレー部バンド！？",
+    },
+    {
+        "name":"ポジニ来ズ",
+    },
+    {
+        "name":"OCTED",
+    },
+    {
+        "name":"ごっつあんクラブ",
+    },
+
+    
+    // {
+    //     "name":"",
+    // },
+];
+
+
+var n_zenhan = 0
+
+
+document.getElementById("band-zenhan-detail").innerHTML = `
+    <div style="position: absolute;top: 5px;left: 10px;display: flex;"><p class="text" onclick="ShowEventTop()" style="cursor:pointer;"><u>イベント</u></p><p>&nbsp;&gt;&nbsp;</p><p class="text" onclick="ShowBand()" style="cursor:pointer;"><u>バンド</u></p><p>&nbsp;&gt;&nbsp;</p><p>OCTED</p></div>
+    <p style="margin-top: 8vh;" class="headline2-5">`+ band_zenhan_data[n_zenhan]["name"] +`</p>
+    <p class="text">バンド団体詳細情報</p>
+    <p style="margin-top: 2vh;" class="text">出演順: 前半グループ `+ [n_zenhan+1] +`番目</p>
+    <div style="display: flex;margin-top: 1vh;">
+      <p class="text">出演予定時間:&nbsp;</p>
+      <p class="text">15日(日)&emsp;<br>16日(月)&emsp;</p>
+      <p class="text">`+band_zenhan_data[n_zenhan]["starts-1"]+` ~ (`+band_zenhan_data[n_zenhan]["takes"]+`分間)<br>`+band_zenhan_data[n_zenhan]["starts-2"]+` ~ (`+band_zenhan_data[n_zenhan]["takes"]+`分間)</p>
+    </div>
+    <p style="margin-top: 1vh;" class="text">上記のタイムスケジュールは当日の演奏状況等により前後に変動する可能性があるため、目安としてご利用ください。</p>
+    <p style="margin-top: 3vh;" class="text">演奏曲</p>
+    <p id="song-list-zenhan">
+        ・シャルル<br>
+        ・シャルル<br>
+        ・シャルル<br>
+        ・シャルル<br>
+    </p>
+    <p style="margin-top: 3vh;" class="text">団体からの一言</p>
+    <p>こんにちは</p>
+`;
+
+
+
+
+
+
+
+
+</script>
+
+</html>

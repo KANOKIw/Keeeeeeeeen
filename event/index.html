@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="59th 獅子児祭 Diverge">
+    <meta property="og:description" content="2024年度獅子児祭 9/15,16 開催!">
+    <meta property="og:site_name" content="SHISHIJI FES">
+    <meta property="og:image" content="https://pbs.twimg.com/profile_images/1402955393194594308/a5pHbQKZ_400x400.jpg">
+    <meta property="og:locale" content="ja">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@shishijifes">
+    <meta name="twitter:creator" content="@shishijifes">
+    <meta name="twitter:title" content="59th 獅子児祭 Diverge">
+    <meta name="twitter:description" content="2024年度獅子児祭 9/15,16 開催！">
+    <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1402955393194594308/a5pHbQKZ_400x400.jpg">
+    <meta name="theme-color" content="rgb(21, 32, 43)" id="theme-meta">
+    <title>59th 獅子児祭 Diverge</title>
+    <link rel="icon" href="../images/favicon.ico">
+    <link rel="stylesheet" href="../index.css">
+    <style>
+        *{
+        margin: 0;
+        padding: 0;
+        font-family: "zen-kaku-gothic-new", sans-serif;
+        }
+        </style>
+    <link rel="preload" href="/the-theme-kotei3/NotosansJP.ttf" as="font" type="font/ttf">
+    <script>
+        (function(d) {
+          var config = {
+            kitId: 'gun5tqp',
+            scriptTimeout: 3000,
+            async: true
+          },
+          h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+        })(document);
+    </script>
+</head>
+<body style="background-color: rgb(21, 32, 43)">
+    <div style="padding-top: 20px;">
+        <label class="selectbox-1">
+            <select id="selectbox" onchange="handleSelectionEvent()">
+                <option value="all-event">全てのイベント</option>
+                <option value="band">バンド</option>
+                <option value="dance">ダンス</option>
+                <option value="bukatu">部活団体</option>
+                <option value="owarai">お笑い</option>
+                <option value="others">その他</option>
+            </select>
+        </label>
+    </div>
+    <div style="width: 100vw;display: flex;justify-content: center;">
+        <div class="org-list" id="org-list-event" style="margin-top: 20px; width: 90vw;max-width: 800px;">
+            <!-- ここ一覧代入 -->
+        </div>
+    </div>
+</body>
+    <script async src="script.js"></script>
+</html>

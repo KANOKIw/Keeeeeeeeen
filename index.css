@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.background-range{
+    background: linear-gradient(
+        to bottom,
+        rgb(0, 84, 251) 0%, 
+        rgb(12, 56, 139) 20%,       
+        rgb(21, 32, 43) 100%       
+    );
+    
+    
+}
+
+#toppage p{
+    font-family: "zen-kaku-gothic-new", sans-serif;
+    font-weight: 400;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+    -webkit-user-drag: none;
+    -khtml-user-select: none;
+    -khtml-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-select: none; 
+    -ms-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+}
+
+#toppage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+
+#toppage img{
+    user-select: none;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none; 
+    -webkit-user-drag: none;
+    -khtml-user-select: none;
+    -khtml-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-select: none; 
+    -ms-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    max-width: min(100vw,600px);
+}
+
+#touchable{
+    max-width: 90vw;
+    user-select: initial;
+    -webkit-touch-callout: initial;
+    -webkit-user-select: initial; 
+    -webkit-user-drag: initial;
+    -khtml-user-select: initial;
+    -khtml-user-drag: initial;
+    -khtml-user-drag: initial;
+    -moz-user-select: initial; 
+    -ms-user-select: initial;
+    -webkit-tap-highlight-color: initial;
+}
+
+.info p{
+    font-family: "zen-kaku-gothic-new", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: left;
+
+}
+
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    position: relative;
+}
+
+.event{
+    font-family: "zen-kaku-gothic-new", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: left;
+}
+
+
+
+.band-zenhankouhan{
+    border-bottom: 1px solid rgb(124, 124, 124);
+}
+
+.band-zenhankouhan > div{
+    border-top: 1px solid rgb(124, 124, 124);
+}
+
+.band-zenhankouhan > div > p{
+    text-align: center;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+.dance-zenhankouhan{
+    border-bottom: 1px solid rgb(124, 124, 124);
+}
+
+.dance-zenhankouhan > div{
+    border-top: 1px solid rgb(124, 124, 124);
+}
+
+.dance-zenhankouhan > div > p{
+    text-align: center;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+.org-list{
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.org-list p{
+    color: white;
+}
+
+.org-list > div{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    position: relative;
+}
+
+.org-list > div::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -15px;
+    height: 0.5px;
+    background-color: rgb(124, 124, 124);
+  }
+
+#org-floor{
+    flex: 2;
+}
+
+#org-class{
+    flex: 2;
+}
+
+#org-name{
+    flex: 5;
+}
+
+#event-place{
+    flex: 3;
+}
+
+#event-type{
+    flex: 3;
+}
+
+#event-name{
+    flex: 4;
+}
+
+#event-time{
+    flex: 0;
+}
+
+#sns-itiran{
+    display: flex;
+    justify-content: space-between;
+}
+
+#sns-itiran img{
+    flex: 1;
+    width: 8vw;
+    max-width: 35px;
+    margin: 0 min(3vw, 25px);
+}
+
+.headline2{
+    font-size: 42px;
+}
+
+.headline2-5{
+    font-size: 30px;
+}
+
+
+.headline3{
+    font-size: 25px;
+}
+
+.headline4{
+    font-size: 21px;
+}
+
+.text{
+    font-size: 16px;
+}
+
+.title-sentence{
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    font-size: 40px;
+}
+
+  
+
+#pv{
+    max-height: calc(50vh - 230px);
+    max-width: 600px;
+    position: absolute;
+    bottom: 0vh;
+}
+
+header{
+    position: fixed;
+    top: 0vh;
+}
+
+
+
+a{
+    color:#ffffff; text-decoration:none;
+}
+
+.funny-pare{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    --width: 80vw;
+}
+
+.funny-place{
+    display: flex;
+    justify-content: center;
+    width: var(--width);
+    height: calc(var(--width)*(104/382));
+    max-width: 300px;
+    max-height: 80px;
+    background-color: white;
+    position: relative;
+}
+
+.funny-place > img{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.funny-place:first-of-type{
+    margin-bottom: 10px;
+}
+
+.see_you_next_time{
+    animation: seikinTV 1s ease forwards;
+}
+
+@keyframes seikinTV{
+    from{opacity: 1;}
+    to{opacity: 0;}
+}
+
+.hello_youtube{
+    animation: hikakinTV 1s ease forwards;
+}
+
+@keyframes hikakinTV{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
+
+/* プルダウンデザイン */
+
+.selectbox-1 {
+    position: relative;
+}
+
+.selectbox-1::before,
+.selectbox-1::after {
+    position: absolute;
+    content: '';
+    pointer-events: none;
+}
+
+.selectbox-1::before {
+    display: inline-block;
+    right: 0;
+    width: 2.8em;
+    height: 2.8em;
+    border-radius: 0 3px 3px 0;
+    background-color: #224567;
+}
+
+.selectbox-1::after {
+    position: absolute;
+    top: 50%;
+    right: 1.4em;
+    transform: translate(50%, -50%) rotate(45deg);
+    width: 6px;
+    height: 6px;
+    border-bottom: 3px solid #fff;
+    border-right: 3px solid #fff;
+}
+
+.selectbox-1 select {
+    appearance: none;
+    min-width: 230px;
+    height: 2.8em;
+    padding: .4em 3.6em .4em .8em;
+    border: none;
+    border-radius: 3px;
+    background-color: #e8e8e8;
+    color: #333;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.selectbox-1 select:focus {
+    outline: 2px solid #224567;
+}
+
+/* ボタン */
+
+.btn_23 {
+	display: block;
+	text-align: center;
+	vertical-align: middle;
+	text-decoration: none;
+	width: 120px;
+	margin: auto;
+	padding: 0.8rem 0.8rem 1rem 0.8rem;
+	font-weight: bold;
+	border: 2px solid #ffffff;
+	color: #ffffff;
+	cursor: pointer;
+	position: relative;
+ 	overflow: hidden;
+ 	z-index: 1;
+}
+.to-org{
+    width: 80%;
+    padding: 1rem 1rem 1rem 1rem;
+}
+.btn_23::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgb(255, 255, 255);
+	transform: translateX(-100%);
+	transition: all .15s;
+	z-index: -1;
+}
+.btn_23:hover::before {
+	transform: translateX(0);
+}
+.btn_23:hover {
+	color: #2785ff;
+}
+
+.online-img{
+    width: 80vw;
+    max-width: 500px;
+}

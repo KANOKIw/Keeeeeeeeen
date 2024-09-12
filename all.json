@@ -1,0 +1,775 @@
+{
+    "band": {
+        "day1": [
+            {
+                "name": "AIAN's",
+                "description": "AIAN'sです。Pretender、ないものねだり、恋をやります。よろしく！！",
+                "musics": [
+                    "pretender",
+                    "ないものねだり",
+                    "恋"
+                ],
+                "takes": 14,
+                "starts": "9:30"
+            },
+            {
+                "name": "HEKI",
+                "description": "シンデレラボーイをやります！本気で演奏するので来てください！",
+                "musics": [
+                    "シンデレラボーイ"
+                ],
+                "takes": 4,
+                "starts": "9:45"
+            },
+            {
+                "name": "背骨軟骨",
+                "description": "丸の内サディスティックと春泥棒はどちらも僕たちにとって難しい曲なので、なるべくミスの無いよう頑張ります。",
+                "musics": [
+                    "春泥棒",
+                    "丸の内サディスティック"
+                ],
+                "takes": 9,
+                "starts": "9:50"
+            },
+            {
+                "name": "ラムダ",
+                "description": "飛行艇という盛り上がれる曲を演奏します。",
+                "musics": [
+                    "飛行艇"
+                ],
+                "takes": 5,
+                "starts": "10:03"
+            },
+            {
+                "name": "険悪",
+                "description": "人生にある沢山の悩み・不安。それらは生きていく上で避けられない不可抗力ですが、今日だけは忘れさせます。楽しんでね。",
+                "musics": [
+                    "不可抗力",
+                    "逆光",
+                    "晴る"
+                ],
+                "takes": 12,
+                "starts": "10:10"
+            },
+            {
+                "name": "T-RUSHES",
+                "description": "私たちT-RUSHESは今回ピースサインとナンセンス文学を演奏させていただきます。",
+                "musics": [
+                    "ナンセンス文学",
+                    "ピースサイン"
+                ],
+                "takes": 9,
+                "starts": "10:25"
+            },
+            {
+                "name": "ベジタリアンズ",
+                "description": "ベジタリアンは豪雨",
+                "musics": [
+                    "群青日和",
+                    "kick back"
+                ],
+                "takes": 8,
+                "starts": "10:35"
+            },
+            {
+                "name": "くいんてっと",
+                "description": "ゆったりなテンポの曲から激し目のテンポの曲まで色々な曲を披露します。ぜひ男子校の影(シルエット)を見て行ってください。",
+                "musics": [
+                    "シルエット",
+                    "さよならエレジー",
+                    "欲望に満ちた青年団"
+                ],
+                "takes": 13,
+                "starts": "10:47"
+            },
+            {
+                "name": "__REPLACEMENT__",
+                "takes": 3
+            },
+            {
+                "name": "へっじほっぐ！！",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "インフェルノ",
+                    "distotion"
+                ],
+                "takes": 6,
+                "starts": "11:10"
+            },
+            {
+                "name": "バレー部バンド！？",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "ピースサイン",
+                    "チェリー"
+                ],
+                "takes": 10,
+                "starts": "11:18"
+            },
+            {
+                "name": "Blue mates",
+                "description": "僕たちのバンドは今年の春に結成した初心者バンドですが文化祭で青と夏、小さな恋の歌を演奏するために練習してきたので是非聞きに来てください。",
+                "musics": [
+                    "青と夏",
+                    "小さな恋のうた"
+                ],
+                "takes": 8,
+                "starts": "11:30"
+            },
+            {
+                "name": "ポジニ来ズ",
+                "description": "バンプとラッドの曲をやります!",
+                "musics": [
+                    "アカシア",
+                    "君と羊と青",
+                    "前前前世"
+                ],
+                "takes": 12,
+                "starts": "11:41"
+            },
+            {
+                "name": "田調",
+                "description": "名前ミスんなや",
+                "musics": [
+                    ""
+                ],
+                "takes": 5,
+                "starts": "11:55"
+            },
+            {
+                "name": "OCTED",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "シャルル",
+                    "一途",
+                    "スパークル",
+                    "ライラック"
+                ],
+                "takes": 19,
+                "starts": "12:03"
+            },
+            {
+                "name": "ごっつあん",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "The beginning",
+                    "全力少年",
+                    "できっこないをやらなくちゃ",
+                    "完全感覚ドリーマー"
+                ],
+                "takes": 19,
+                "starts": "12:25"
+            }
+        ],
+        "day2": [
+            {
+                "name": "AIAN'S",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "pretender",
+                    "ないものねだり",
+                    "恋"
+                ],
+                "takes": 14,
+                "starts": ""
+            },
+            {
+                "name": "HEKI",
+                "description": "シンデレラボーイをやります！本気で演奏するので来てください！",
+                "musics": [
+                    "シンデレラボーイ"
+                ],
+                "takes": 4,
+                "starts": ""
+            },
+            {
+                "name": "背骨軟骨",
+                "description": "丸の内サディスティックと春泥棒はどちらも僕たちにとって難しい曲なので、なるべくミスの無いよう頑張ります。",
+                "musics": [
+                    "春泥棒",
+                    "丸の内サディスティック"
+                ],
+                "takes": 9,
+                "starts": ""
+            },
+            {
+                "name": "ラムダ",
+                "description": "飛行艇という盛り上がれる曲を演奏します。",
+                "musics": [
+                    "飛行艇"
+                ],
+                "takes": 5,
+                "starts": ""
+            },
+            {
+                "name": "険悪",
+                "description": "人生にある沢山の悩み・不安。それらは生きていく上で避けられない不可抗力ですが、今日だけは忘れさせます。楽しんでね。",
+                "musics": [
+                    "不可抗力",
+                    "逆光",
+                    "晴る"
+                ],
+                "takes": 12,
+                "starts": ""
+            },
+            {
+                "name": "TーLUSHES",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "ナンセンス文学",
+                    "ピースサイン"
+                ],
+                "takes": 9,
+                "starts": ""
+            },
+            {
+                "name": "ベジタリアンズ",
+                "description": "ベジタリアンは豪雨",
+                "musics": [
+                    "群青日和",
+                    "kick back"
+                ],
+                "takes": 8,
+                "starts": ""
+            },
+            {
+                "name": "くいんてっと",
+                "description": "ゆったりなテンポの曲から激し目のテンポの曲まで色々な曲を披露します。ぜひ男子校の影(シルエット)を見て行ってください。",
+                "musics": [
+                    "シルエット",
+                    "さよならエレジー",
+                    "欲望に満ちた青年団"
+                ],
+                "takes": 13,
+                "starts": ""
+            },
+            {
+                "name": "へっじほっぐ！！",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "インフェルノ",
+                    "distotion"
+                ],
+                "takes": 6,
+                "starts": ""
+            },
+            {
+                "name": "バレー部バンド！？",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "ピースサイン",
+                    "チェリー"
+                ],
+                "takes": 10,
+                "starts": ""
+            },
+            {
+                "name": "Blue mates",
+                "description": "僕たちのバンドは今年の春に結成した初心者バンドですが文化祭で青と夏、小さな恋の歌を演奏するために練習してきたので是非聞きに来てください。",
+                "musics": [
+                    "青と夏",
+                    "小さな恋のうた"
+                ],
+                "takes": 8,
+                "starts": ""
+            },
+            {
+                "name": "ポジニ来ズ",
+                "description": "バンプとラッドの曲をやります!",
+                "musics": [
+                    "アカシア",
+                    "君と羊と青",
+                    "前前前世"
+                ],
+                "takes": 12,
+                "starts": ""
+            },
+            {
+                "name": "OCTED",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "シャルル",
+                    "一途",
+                    "スパークル",
+                    "ライラック"
+                ],
+                "takes": 19,
+                "starts": ""
+            },
+            {
+                "name": "ごっつあん",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "The beginning",
+                    "全力少年",
+                    "できっこないをやらなくちゃ",
+                    "完全感覚Dreamer"
+                ],
+                "takes": 19,
+                "starts": ""
+            }
+        ]
+    },
+    "dance": {
+        "day1": [
+            {
+                "name": "stylish cowards",
+                "description": "名前ミスんなや",
+                "musics": [
+                    ""
+                ],
+                "takes": 7,
+                "starts": "13:15"
+            },
+            {
+                "name": "獅子児祭ARASHI",
+                "description": "嵐の如きダンスを披露します。",
+                "musics": [
+                    "ARASHI",
+                    "Happiness"
+                ],
+                "takes": 5,
+                "starts": "13:25"
+            },
+            {
+                "name": "じゅに坂",
+                "description": "恋するフォーチュンクッキー",
+                "musics": [
+                    "恋するフォーチュンクッキー"
+                ],
+                "takes": 5,
+                "starts": "13:30"
+            },
+            {
+                "name": "あっぷるぱい",
+                "description": "青のすみかと第六感を踊ります！",
+                "musics": [
+                    "青のすみか",
+                    "第六感"
+                ],
+                "takes": 3,
+                "starts": "13:37"
+            },
+            {
+                "name": "踊るバレー部",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "mid night"
+                ],
+                "takes": 4,
+                "starts": "13:42"
+            },
+            {
+                "name": "LADY:FIRST",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "master plan"
+                ],
+                "takes": 4,
+                "starts": "13:47"
+            },
+            {
+                "name": "Da-iZU",
+                "description": "スターマインを踊り、千本桜のヲタ芸をします！盛り上げに来てください！",
+                "musics": [
+                    "千本桜",
+                    "スターマイン"
+                ],
+                "takes": 7,
+                "starts": "13:52"
+            },
+            {
+                "name": "ジョージーンズ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "super shy"
+                ],
+                "takes": 3,
+                "starts": "14:00"
+            },
+            {
+                "name": "once",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "What is love ?"
+                ],
+                "takes": 5,
+                "starts": "14:30"
+            },
+            {
+                "name": "スンドゥブ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "fact check"
+                ],
+                "takes": 4,
+                "starts": "14:38"
+            },
+            {
+                "name": "リアルセタボーイズ",
+                "description": "世田学唯一のブレイクダンスチームREAL SETA BOYZ！",
+                "musics": [
+                    "脳漿炸裂ガール",
+                    "chariot"
+                ],
+                "takes": 4,
+                "starts": "14:43"
+            },
+            {
+                "name": "XⅡCBOYZ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "3D",
+                    "Seven"
+                ],
+                "takes": 3,
+                "starts": "14:48"
+            },
+            {
+                "name": "2代目仏教少年団",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "EASY.Impossible",
+                    "DNA"
+                ],
+                "takes": 11,
+                "starts": "14:53"
+            },
+            {
+                "name": "SetarayKids",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "LALALALA"
+                ],
+                "takes": 4,
+                "starts": "15:05"
+            },
+            {
+                "name": "Plaisir",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "runnaway baby"
+                ],
+                "takes": 5,
+                "starts": "15:11"
+            },
+            {
+                "name": "Arise",
+                "description": "会場をfireのように熱く盛り上げます。",
+                "musics": [
+                    "Fire"
+                ],
+                "takes": 4,
+                "starts": "15:17"
+            }
+        ],
+        "day2": [
+            {
+                "name": "stylish cowards",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "I CAN'T STOP ME",
+                    "OMG"
+                ],
+                "takes": 7,
+                "starts": "9:30"
+            },
+            {
+                "name": "獅子児祭ARASHI",
+                "description": "嵐の如きダンスを披露します。",
+                "musics": [
+                    "ARASHI",
+                    "Happiness"
+                ],
+                "takes": 5,
+                "starts": "9:40"
+            },
+            {
+                "name": "じゅに坂",
+                "description": "恋するフォーチュンクッキー",
+                "musics": [
+                    "恋するフォーチュンクッキー"
+                ],
+                "takes": 5,
+                "starts": "9:46"
+            },
+            {
+                "name": "あっぷるぱい",
+                "description": "青のすみかと第六感を踊ります！",
+                "musics": [
+                    "青のすみか",
+                    "第六感"
+                ],
+                "takes": 3,
+                "starts": "9:52"
+            },
+            {
+                "name": "踊るバレー部",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "mid night"
+                ],
+                "takes": 4,
+                "starts": "9:57"
+            },
+            {
+                "name": "LADY:FIRST",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "master plan"
+                ],
+                "takes": 4,
+                "starts": "10:02"
+            },
+            {
+                "name": "Da-iZU",
+                "description": "スターマインを踊り、千本桜のヲタ芸をします！盛り上げに来てください！",
+                "musics": [
+                    "千本桜",
+                    "スターマイン"
+                ],
+                "takes": 7,
+                "starts": "10:07"
+            },
+            {
+                "name": "ジョージーンズ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "super shy"
+                ],
+                "takes": 3,
+                "starts": "10:16"
+            },
+            {
+                "name": "once",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "What is love ?"
+                ],
+                "takes": 5,
+                "starts": "10:45"
+            },
+            {
+                "name": "スンドゥブ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "fact check"
+                ],
+                "takes": 4,
+                "starts": "10:53"
+            },
+            {
+                "name": "リアルセタボーイズ",
+                "description": "世田学唯一のブレイクダンスチームREAL SETA BOYZ！",
+                "musics": [
+                    "脳漿炸裂ガール",
+                    "chariot"
+                ],
+                "takes": 4,
+                "starts": "10:58"
+            },
+            {
+                "name": "XⅡCBOYZ",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "3D",
+                    "Seven"
+                ],
+                "takes": 3,
+                "starts": "11:03"
+            },
+            {
+                "name": "田調",
+                "description": "名前ミスんなや",
+                "musics": [
+                    ""
+                ],
+                "takes": 6,
+                "starts": "11:08"
+            },
+            {
+                "name": "2代目仏教少年団",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "EASY.Impossible",
+                    "DNA"
+                ],
+                "takes": 11,
+                "starts": "11:15"
+            },
+            {
+                "name": "SetarayKids",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "LALALALA"
+                ],
+                "takes": 4,
+                "starts": "11:28"
+            },
+            {
+                "name": "Plaisir",
+                "description": "名前ミスんなや",
+                "musics": [
+                    "runnaway baby"
+                ],
+                "takes": 5,
+                "starts": "11:33"
+            },
+            {
+                "name": "Arise",
+                "description": "会場をfireのように熱く盛り上げます。",
+                "musics": [
+                    "Fire"
+                ],
+                "takes": 4,
+                "starts": "11:40"
+            }
+        ]
+    },
+    "misc": {
+        "武道場": {
+            "day1": [
+                {
+                    "nane": "CHORUS FESTIVAL(2年合唱コンクール)2024",
+                    "starts": "10:00",
+                    "takes": 120
+                },
+                {
+                    "nane": "ダンスフリーステージ",
+                    "starts": "12:30",
+                    "takes": 30
+                },
+                {
+                    "nane": "先生 & 生徒歌唱大会",
+                    "starts": "13:30",
+                    "takes": 30
+                },
+                {
+                    "nane": "クイズ世田学生は受験生より賢いの?!",
+                    "starts": "14:45",
+                    "takes": 30
+                }
+            ],
+            "day2": [
+                {
+                    "nane": "クイズ先生はもちろん生徒より賢いよね？",
+                    "starts": "11:00",
+                    "takes": 30
+                },
+                {
+                    "nane": "SETAGAKU筋肉自慢",
+                    "starts": "12:00",
+                    "takes": 30
+                },
+                {
+                    "nane": "ダンスフリーステージ",
+                    "starts": "13:00",
+                    "takes": 30
+                }
+            ]
+        },
+        "放光館": {
+            "day1": [
+                {
+                    "nane": "教員によるクラシックコンサート",
+                    "starts": "9:30",
+                    "takes": 60
+                },
+                {
+                    "nane": "獅子児ピアノの森",
+                    "starts": "11:00",
+                    "takes": 60
+                },
+                {
+                    "nane": "映研ロードショー",
+                    "starts": "12:15",
+                    "takes": 30
+                },
+                {
+                    "nane": "弾き語りライブ(竹原ピストル cover)",
+                    "starts": "13:15",
+                    "takes": 30
+                },
+                {
+                    "nane": "S1グランプリ(お笑いライブ)",
+                    "starts": "14:00",
+                    "takes": 75
+                },
+                {
+                    "nane": "映研ロードショー",
+                    "starts": "15:30",
+                    "takes": 15
+                }
+            ],
+            "day2": [
+                {
+                    "nane": "トロワ・クール　ミニコンサート",
+                    "starts": "9:45",
+                    "takes": 60
+                },
+                {
+                    "nane": "S1グランプリ",
+                    "starts": "11:00",
+                    "takes": 60
+                },
+                {
+                    "nane": "映研ロードショー",
+                    "starts": "12:15",
+                    "takes": 30
+                },
+                {
+                    "nane": "劇団獅子〜演劇・コント",
+                    "starts": "13:00",
+                    "takes": 30
+                },
+                {
+                    "nane": "弾き語りライブ(竹原ピストル cover)",
+                    "starts": "13:45",
+                    "takes": 45
+                },
+                {
+                    "nane": "映研ロードショー",
+                    "starts": "14:45",
+                    "takes": 30
+                }
+            ]
+        },
+        "修道館ホール": {
+            "day1": [
+                {
+                    "nane": "Festival Concert2024",
+                    "starts": "13:30",
+                    "takes": 120
+                }
+            ],
+            "day2": [
+                {
+                    "nane": "Festival Concert2024",
+                    "starts": "10:00",
+                    "takes": 120
+                },
+                {
+                    "nane": "みんなでプレゼン！(政治経済研究部)",
+                    "starts": "13:30",
+                    "takes": 30
+                }
+            ]
+        },
+        "校舎前": {
+            "day1": [
+                {
+                    "nane": "この素晴らしい学園に爆砲を",
+                    "starts": "11:30",
+                    "takes": 30
+                }
+            ],
+            "day2": [
+                {
+                    "nane": "この素晴らしい学園に爆砲を",
+                    "starts": "11:30",
+                    "takes": 30
+                }
+            ]
+        }
+    }
+}
